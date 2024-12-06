@@ -55,7 +55,6 @@ print(f"prediction value: {pre}")
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
 
 ![Screenshot 2024-09-01 171506](https://github.com/user-attachments/assets/ec75ae71-7cb9-4450-bb95-f44201f9e8e8)
 ![Screenshot 2024-09-01 171535](https://github.com/user-attachments/assets/2610cdb8-766c-4557-acc4-6cb9863ad771)
